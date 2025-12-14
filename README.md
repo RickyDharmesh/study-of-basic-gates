@@ -66,9 +66,9 @@ Y= A⊕B
 
 Program for logic gates and verify its truth table in quartus using Verilog programming
 ```
-Developed by: Dhiren D
+Developed by: RICKY DHARMESH P
 
-RegisterNumber: 25007814
+RegisterNumber: 25016025
 ```
 ```py
 module LOGIC_GATES(a,b,andgate,orgate,notgate,nandgate,norgate,xorgate,xnorgate);
